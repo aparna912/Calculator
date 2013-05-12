@@ -47,7 +47,7 @@ int main(void)
 	printf("4. Division\n");
 	scanf("%d",&whichSign);
 
-
+	//I have added this code 
 
 	// This function is going to be used to switch the functions if some aren't used.
 	switch (whichSign)
