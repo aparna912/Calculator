@@ -25,7 +25,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
-
+// hello
 
 float add(float num1, float num2);
 float subtract(float num1, float num2);
@@ -37,8 +37,8 @@ int main(void)
 	int whichSign;
 	float num[2];
 	// / A mini dialog we are using to get the user to make a choice
-	printf("Calculator program\n");
-	printf("Enter The Numbers for operations: ");
+	printf("program for calculator\n");
+	printf("Enter The Numbers: ");
 	scanf("%f%f",&num[0], &num[1]); //These are the numbers we are going to use inside of the calculator
 
 	printf("1. Add\n");
